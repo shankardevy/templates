@@ -1,2 +1,3 @@
-# templates
-Various templates for project
+# Templates 
+Various templates like README.md, humans.txt, LICENSE etc
+
